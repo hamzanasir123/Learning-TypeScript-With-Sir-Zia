@@ -1,0 +1,1 @@
+export let fruits = ["Banana" , "Apple" , "Kiwi"];
